@@ -320,7 +320,11 @@ Reference: https://github.com/tensorflow/models/blob/master/research/object_dete
 
 
 
-After you generate a frozen model (`frozen_inference_graph.pb`). You can simply edit and run the notebook https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb to test and implement the model.
+After you generate a frozen model (`frozen_inference_graph.pb`). You can simply edit and run the notebook https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb to test and implement the model. 
+
+You can also view the notebook ([ipynb](object_detection_demo.ipynb)) to do inference on an image.
+
+![](./usr/object_detection.png)
 
 
 
